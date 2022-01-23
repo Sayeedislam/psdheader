@@ -822,3 +822,15 @@ question section style start
 
 
 }
+
+.question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 930px;
+    background-color: silver;
+    margin: 10px auto;
+    padding: 15px;
+}
+
+.question h4 {}
